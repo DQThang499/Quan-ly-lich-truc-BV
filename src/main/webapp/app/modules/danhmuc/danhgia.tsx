@@ -212,6 +212,7 @@ class DanhGia extends React.Component<IDanhGiaProp, IDanhGiaState> {
           <Col md="8">
             <div className="line-dsxn-dmxn">
               <h6>
+                <h4>Test github<h4>
                 <FontAwesomeIcon icon={faClipboardList} /> Danh sách xét nghiệm
               </h6>
             </div>
