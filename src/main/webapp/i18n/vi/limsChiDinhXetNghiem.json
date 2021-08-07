@@ -1,0 +1,38 @@
+{
+  "appgwApp": {
+    "limsChiDinhXetNghiem": {
+      "home": {
+        "title": "Chỉ định xét nghiệm",
+        "createLabel": "Thêm mới một Chỉ định xét nghiệm",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Chỉ định xét nghiệm"
+      },
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Chỉ định xét nghiệm {{ id }}?"
+      },
+      "detail": {
+        "title": "Chỉ định xét nghiệm"
+      },
+      "maBN": "Mã bệnh nhân",
+      "sovaovien": "Sovaovien",
+      "sovaovienDt": "Sovaovien_DT",
+      "dvtt": "DVTT",
+      "doituong": "Đối tượng",
+      "phanhe": "Phân hệ",
+      "phongChiDinh": "Phòng chỉ định",
+      "nguoiTao": "Người tạo",
+      "ngayTao": "Ngày tạo",
+      "barcode": "Barcode",
+      "nguoiLayMau": "Người lấy mẫu",
+      "ngayLayMau": "Ngày lấy mẫu",
+      "ghiChu": "Ghi Chú",
+      "danhSachChiDinh": "Danh sách chỉ định"
+    }
+  },
+  "limsApp": {
+    "limsChiDinhXetNghiem": {
+      "created": "Một Chỉ định xét nghiệm mới được tạo với định danh {{ param }}",
+      "updated": "Một Chỉ định xét nghiệm cập nhật với định danh {{ param }}",
+      "deleted": "Một Chỉ định xét nghiệm đã xóa với định danh {{ param }}"
+    }
+  }
+}

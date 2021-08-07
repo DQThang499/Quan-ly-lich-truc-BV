@@ -1,0 +1,62 @@
+{
+  "appgwApp": {
+    "nhanVien": {
+      "error": "Error",
+      "success": "Success",
+      "home": {
+        "title": "Nhan Viens",
+        "createLabel": "Create a new Nhan Vien",
+        "createOrEditLabel": "Create or edit a Nhan Vien"
+      },
+      "import": "Import Excel",
+      "export": "Export Excel",
+      "importFromHis": "Import From His",
+      "created": "A new Nhan Vien is created with identifier {{ param }}",
+      "updated": "A Nhan Vien is updated with identifier {{ param }}",
+      "deleted": "A Nhan Vien is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Nhan Vien {{ id }}?"
+      },
+      "detail": {
+        "title": "Nhan Vien"
+      },
+      "maNhanVien": "Ma Nhan Vien",
+      "tenNhanVien": "Ten Nhan Vien",
+      "maPhongBan": "Ma Phong Ban",
+      "dvtt": "Dvtt",
+      "diaChi": "Dia Chi",
+      "ngaySinh": "Ngay Sinh",
+      "soDienThoai": "So Dien Thoai",
+      "maChucVu": "Ma Chuc Vu",
+      "maChucDanh": "Ma Chuc Danh",
+      "gioiTinh": "Gioi Tinh",
+      "trinhDo": "Trinh Do",
+      "isAdmin": "Is Admin",
+      "chucNangThuongDung": "Chuc Nang Thuong Dung",
+      "maTinh": "Ma Tinh",
+      "chungChiHanhNghe": "Chung Chi Hanh Nghe",
+      "chuKy": "Chu Ky",
+      "nhanLucYTeThonBan": "Nhan Luc Y Te Thon Ban",
+      "idTrinhDoCM": "Id Trinh Do CM",
+      "idDanToc": "Id Dan Toc",
+      "tenTaiKhoan": "Ten Tai Khoan",
+      "trangThai": "Trang Thai",
+      "thaoTac": "Thao tác",
+      "page": {
+        "showing": " Showing",
+        "to": " to",
+        "of": " of",
+        "results": " Results",
+        "firstPageText": "First",
+        "prePageText": "Back",
+        "nextPageText": "Next",
+        "lastPageText": "Last",
+        "nextPageTitle": "First page",
+        "prePageTitle": "Pre page",
+        "firstPageTitle": "Next page",
+        "lastPageTitle": "Last page",
+        "all": "All"
+      }
+    }
+  }
+}

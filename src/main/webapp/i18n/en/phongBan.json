@@ -1,0 +1,53 @@
+{
+  "appgwApp": {
+    "phongBan": {
+      "error": "Error",
+      "success": "Success",
+      "home": {
+        "title": "Phong Bans",
+        "createLabel": "Create a new Phong Ban",
+        "createOrEditLabel": "Create or edit a Phong Ban"
+      },
+      "import": "Import Excel",
+      "export": "Export Excel",
+      "importFromHis": "Import From His",
+      "created": "A new Phong Ban is created with identifier {{ param }}",
+      "updated": "A Phong Ban is updated with identifier {{ param }}",
+      "deleted": "A Phong Ban is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Phong Ban {{ id }}?"
+      },
+      "detail": {
+        "title": "Phong Ban"
+      },
+      "maPhongban": "Ma Phongban",
+      "tenPhongban": "Ten Phongban",
+      "maDonvi": "Ma Donvi",
+      "capPhongban": "Cap Phongban",
+      "kyhieuPhongban": "Kyhieu Phongban",
+      "chucnangkhamchuabenh": "Chucnangkhamchuabenh",
+      "sdTuThuoc": "Sd Tu Thuoc",
+      "sodienthoai": "Sodienthoai",
+      "maKhoaCb": "Ma Khoa Cb",
+      "khamdichvu": "Khamdichvu",
+      "khamthongthuong": "Khamthongthuong",
+      "khamchuyengia": "Khamchuyengia",
+      "thaoTac": "Action",
+      "page": {
+        "showing": " Showing",
+        "to": " to",
+        "of": " of",
+        "results": " Results",
+        "firstPageText": "First",
+        "prePageText": "Back",
+        "nextPageText": "Next",
+        "lastPageText": "Last",
+        "nextPageTitle": "First page",
+        "prePageTitle": "Pre page",
+        "firstPageTitle": "Next page",
+        "lastPageTitle": "Last page",
+        "all": "All"
+      }
+    }
+  }
+}

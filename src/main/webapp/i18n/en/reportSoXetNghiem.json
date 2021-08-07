@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "reportSoXetNghiem": {
+      "title": "So Xet Nghiem",
+      "fromDate": "From Date",
+      "toDate": "toDate",
+      "typeFile": "Type File Export",
+      "export": "Export",
+      "error": "Error",
+      "success": "Success",
+      "table": {
+        "stt": "Index",
+        "date": "Date",
+        "sid": "sid",
+        "nameBenhNhan": "Patient Name",
+        "gioiTinh": "Sex",
+        "male": "male",
+        "female": "female",
+        "tuoi": "Age",
+        "diaChi": "Address",
+        "BHYT": "BHYT",
+        "chanDoan": "Chan Doan",
+        "noiGui": "Phong Chi Dinh",
+        "yeuCau": "Yeu Cau",
+        "ketQua": "Ket Qua",
+        "nguoiDoc": "Nguoi Doc",
+        "nguoiGui": "Nguoi Gui"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+.ehr {
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+  }
+
+  label {
+    //margin-right: 5px;
+    //margin-bottom: 1px;
+    //padding: 0 2px 0 2px;
+    color: #000000;
+    //height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  .row:not(:first-child) {
+    padding-top: 20px;
+  }
+
+  &.ehr-detail {
+    img.human-kq-sh {
+      width: 100%;
+    }
+
+    .card-body {
+      color: #666666;
+      font-size: 0.9rem;
+
+      .kq-sh {
+        text-align: center;
+      }
+
+      .kq-sh-title {
+        font-size: 0.75rem;
+      }
+
+      .kq-sh-value {
+        font-size: 1.1rem;
+        color: #444444;
+        font-weight: bold;
+
+        &.danger {
+          color: #c62828;
+        }
+
+        &.normal {
+          color: #2e7d32;
+        }
+      }
+    }
+  }
+}
+
+.ehr-tabs {
+  margin-top: 20px;
+}
+
+.background-color-tab {
+  padding: 3px;
+  background-color: #485167;
+}
+
+.background-color-cls {
+  padding: 3px;
+  background-color: #ffffff;
+}
+
+.background-color-duocvattu {
+  padding: 3px;
+  background-color: #ffffff;
+}
+
+.text-color {
+  color: white;
+}
+
+.tabs-medical {
+  text-align: center;
+}

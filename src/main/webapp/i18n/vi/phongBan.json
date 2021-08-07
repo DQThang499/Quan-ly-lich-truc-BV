@@ -1,0 +1,53 @@
+{
+  "appgwApp": {
+    "phongBan": {
+      "error": "Có lỗi xảy ra",
+      "success": "Thành công",
+      "home": {
+        "title": "Danh sách Phòng Ban",
+        "createLabel": "Thêm mới một Phòng Ban",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Phòng Ban"
+      },
+      "import": "Nhập từ tập tin Excel",
+      "export": "Xuất ra tập tin Excel",
+      "importFromHis": "Đồng bộ danh mục từ HIS",
+      "created": "Một Phòng Ban mới được tạo với định danh {{ param }}",
+      "updated": "Một Phòng Ban cập nhật với định danh {{ param }}",
+      "deleted": "Một Phòng Ban đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Phòng Ban {{ id }}?"
+      },
+      "detail": {
+        "title": "Phòng Ban"
+      },
+      "maPhongban": "Mã Phòng Ban",
+      "tenPhongban": "Tên Phòng Ban",
+      "maDonvi": "Mã Đơn vị",
+      "capPhongban": "Cấp Phòng Ban",
+      "kyhieuPhongban": "Ký hiệu Phòng Ban",
+      "chucnangkhamchuabenh": "Chức năng khám chữa bênh",
+      "sdTuThuoc": "Sử dụng tử thuốc",
+      "sodienthoai": "Số điện thoại",
+      "maKhoaCb": "Mã khoa ",
+      "khamdichvu": "Khám dịch vụ",
+      "khamthongthuong": "Khám thông thường",
+      "khamchuyengia": "Khám chuyên gia",
+      "thaoTac": "Thao tác",
+      "page": {
+        "showing": " Hiển thị",
+        "to": " đến",
+        "of": " của",
+        "results": " Kết quả",
+        "firstPageText": "Trước",
+        "prePageText": "Lui",
+        "nextPageText": "Tới",
+        "lastPageText": "Sau",
+        "nextPageTitle": "Trang đầu",
+        "prePageTitle": "Trang trước",
+        "firstPageTitle": "Trang sau",
+        "lastPageTitle": "Trang cuối",
+        "all": "Tất cả"
+      }
+    }
+  }
+}

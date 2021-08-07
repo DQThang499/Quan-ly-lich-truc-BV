@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "limsLoaiXetNghiem": {
+      "home": {
+        "title": "Loai Xet Nghiems",
+        "createLabel": "Create a new Loai Xet Nghiem",
+        "createOrEditLabel": "Create or edit a Loai Xet Nghiem"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Loai Xet Nghiem {{ id }}?"
+      },
+      "detail": {
+        "title": "Loai Xet Nghiem"
+      },
+      "maLoai": "Ma Loai",
+      "dvtt": "Dvtt",
+      "tenLoai": "Ten Loai",
+      "mota": "Mota",
+      "sapxep": "Sapxep",
+      "hoatdong": "Hoatdong",
+      "xetNghiem": "Xet Nghiem"
+    }
+  },
+  "limsApp": {
+    "limsLoaiXetNghiem": {
+      "created": "A new Loai Xet Nghiem is created with identifier {{ param }}",
+      "updated": "A Loai Xet Nghiem is updated with identifier {{ param }}",
+      "deleted": "A Loai Xet Nghiem is deleted with identifier {{ param }}"
+    }
+  }
+}

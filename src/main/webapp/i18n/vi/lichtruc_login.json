@@ -1,0 +1,12 @@
+{
+  "login": {
+    "title": "Đăng nhập",
+    "error": {
+      "unauthorized": "<strong>Đăng nhập không thành công!</strong>"
+    },
+    "placeholder": {
+      "username": "Tên đăng nhập",
+      "password": "Mật khẩu"
+    }
+  }
+}

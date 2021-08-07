@@ -1,0 +1,30 @@
+{
+  "appgwApp": {
+    "sharedBenhNhan": {
+      "home": {
+        "title": "DM Bệnh nhân",
+        "createLabel": "Thêm mới một Bệnh nhân",
+        "createOrEditLabel": "Thông tin bệnh nhân"
+      },
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Bệnh nhân {{ id }}?"
+      },
+      "detail": {
+        "title": "Bệnh nhân"
+      },
+      "tenBN": "Tên bệnh nhân",
+      "tuoi": "Tuổi",
+      "ngaySinh": "Ngày Sinh",
+      "gioiTinh": "Giới tính",
+      "doiTuong": "Đối tượng",
+      "sotheBHYT": "Số thẻ BHYT"
+    }
+  },
+  "sharedApp": {
+    "sharedBenhNhan": {
+      "created": "Một Bệnh nhân mới được tạo với định danh {{ param }}",
+      "updated": "Một Bệnh nhân cập nhật với định danh {{ param }}",
+      "deleted": "Một Bệnh nhân đã xóa với định danh {{ param }}"
+    }
+  }
+}

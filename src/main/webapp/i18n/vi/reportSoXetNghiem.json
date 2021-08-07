@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "reportSoXetNghiem": {
+      "title": "Sổ xét nghiệm",
+      "fromDate": "Từ ngày:",
+      "toDate": "Đến ngày:",
+      "typeFile": "Loại tập tin",
+      "export": "In kết quả",
+      "error": "Có lỗi xảy ra",
+      "success": "Thành công",
+      "table": {
+        "stt": "Stt",
+        "date": "Ngày",
+        "sid": "Sid",
+        "nameBenhNhan": "Tên bênh nhân",
+        "gioiTinh": "Giới tính",
+        "male": "Nam",
+        "female": "Nữ",
+        "tuoi": "Tuổi",
+        "diaChi": "Địa chỉ",
+        "BHYT": "BHYT",
+        "chanDoan": "Chẩn đoán",
+        "noiGui": "Phòng chỉ định",
+        "yeuCau": "Yêu cầu",
+        "ketQua": "Kết quả",
+        "nguoiDoc": "Người đọc",
+        "nguoiGui": "Người gửi"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "appgwApp": {
+    "limsChiDinhXetNghiem": {
+      "home": {
+        "title": "Chi Dinh Xet Nghiems",
+        "createLabel": "Create a new Chi Dinh Xet Nghiem",
+        "createOrEditLabel": "Create or edit a Chi Dinh Xet Nghiem"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Chi Dinh Xet Nghiem {{ id }}?"
+      },
+      "detail": {
+        "title": "Chi Dinh Xet Nghiem"
+      },
+      "maBN": "Ma BN",
+      "sovaovien": "Sovaovien",
+      "sovaovienDt": "Sovaovien Dt",
+      "dvtt": "Dvtt",
+      "doituong": "Doituong",
+      "phanhe": "Phanhe",
+      "phongChiDinh": "Phong Chi Dinh",
+      "nguoiTao": "Nguoi Tao",
+      "ngayTao": "Ngay Tao",
+      "barcode": "Barcode",
+      "nguoiLayMau": "Nguoi Lay Mau",
+      "ngayLayMau": "Ngay Lay Mau",
+      "ghiChu": "Ghi Chu",
+      "danhSachChiDinh": "Danh Sach Chi Dinh"
+    }
+  },
+  "limsApp": {
+    "limsChiDinhXetNghiem": {
+      "created": "A new Chi Dinh Xet Nghiem is created with identifier {{ param }}",
+      "updated": "A Chi Dinh Xet Nghiem is updated with identifier {{ param }}",
+      "deleted": "A Chi Dinh Xet Nghiem is deleted with identifier {{ param }}"
+    }
+  }
+}

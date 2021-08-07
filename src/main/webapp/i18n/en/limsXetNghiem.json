@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "limsXetNghiem": {
+      "home": {
+        "title": "Xet Nghiems",
+        "createLabel": "Create a new Xet Nghiem",
+        "createOrEditLabel": "Create or edit a Xet Nghiem"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Xet Nghiem {{ id }}?"
+      },
+      "detail": {
+        "title": "Xet Nghiem"
+      },
+      "maXetNghiem": "Ma Xet Nghiem",
+      "tenXetNghiem": "Ten Xet Nghiem",
+      "dvtt": "Dvtt",
+      "sapxep": "Sapxep",
+      "hoatdong": "Hoatdong",
+      "soluong": "Soluong",
+      "loaiXetNghiem": "Loai Xet Nghiem"
+    }
+  },
+  "limsApp": {
+    "limsXetNghiem": {
+      "created": "A new Xet Nghiem is created with identifier {{ param }}",
+      "updated": "A Xet Nghiem is updated with identifier {{ param }}",
+      "deleted": "A Xet Nghiem is deleted with identifier {{ param }}"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "appgwApp": {
+    "sharedBenhNhan": {
+      "home": {
+        "title": "Benh Nhans",
+        "createLabel": "Create a new Bệnh nhân",
+        "createOrEditLabel": "Create or edit a Bệnh nhân"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Bệnh nhân {{ id }}?"
+      },
+      "detail": {
+        "title": "Bệnh nhân"
+      },
+      "tenBN": "Ten BN",
+      "tuoi": "Tuoi",
+      "ngaySinh": "Ngay Sinh",
+      "gioiTinh": "Gioitinh",
+      "doiTuong": "Doi Tuong",
+      "sotheBHYT": "Sothe BHYT"
+    }
+  },
+  "sharedApp": {
+    "sharedBenhNhan": {
+      "created": "A new Bệnh nhân is created with identifier {{ param }}",
+      "updated": "A Bệnh nhân is updated with identifier {{ param }}",
+      "deleted": "A Bệnh nhân is deleted with identifier {{ param }}"
+    }
+  }
+}

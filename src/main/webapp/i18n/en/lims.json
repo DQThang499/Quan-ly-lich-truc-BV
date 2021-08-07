@@ -1,0 +1,7 @@
+{
+  "lims": {
+    "error": {
+      "barcodeAlreadyUsed": "Barcode is already used"
+    }
+  }
+}

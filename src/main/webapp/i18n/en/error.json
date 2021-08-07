@@ -1,0 +1,13 @@
+{
+  "error": {
+    "title": "Error page!",
+    "http": {
+      "400": "Có lỗi xảy ra.",
+      "403": "Có lỗi xảy ra.",
+      "405": "Có lỗi xảy ra.",
+      "500": "Có lỗi xảy ra."
+    },
+    "concurrencyFailure": "Another user modified this data at the same time as you. Your changes were rejected.",
+    "validation": "Vui lòng thiết lập đầy đủ thông tin trước khi thực hiện thao tác"
+  }
+}

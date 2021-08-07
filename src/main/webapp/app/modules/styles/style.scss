@@ -1,0 +1,112 @@
+.bg {
+  min-height: calc(100vh - 64px);
+  width: 100vw;
+  display: flex;
+  flex-flow: column;
+}
+
+#menu {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#menu:hover {
+  overflow-y: auto;
+}
+
+.input-group i {
+  margin-right: 12px;
+  line-height: 38px;
+}
+
+.my-card {
+  /*  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    opacity: 0.8;*/
+  background-color: #fff;
+  border: none;
+  /*  border-radius: .625rem;
+  box-shadow: 0 0.46875rem 2.1875rem rgba(90,97,105,.1), 0 0.9375rem 1.40625rem rgba(90,97,105,.1), 0 0.25rem 0.53125rem rgba(90,97,105,.12), 0 0.125rem 0.1875rem rgba(90,97,105,.1);*/
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.my-card-header {
+  border-radius: 0.625rem 0.625rem 0 0;
+  padding: 0.9375rem 1.875rem;
+  background-color: rgba(90, 97, 105, 0.06);
+  border-bottom: none;
+}
+
+.my-card-body {
+  padding: 1.875rem;
+  flex: 1 1 auto;
+  box-sizing: border-box;
+}
+
+.bg-vnpt {
+  background: #1b66b2 !important;
+  color: white;
+}
+.bg-vnptin {
+  background: #1b66b2 !important;
+  color: white;
+  margin-right: 20px;
+}
+.bg-vnptlaydulieu {
+  background: yellow !important;
+  color: red;
+}
+.bg-vnpt1 {
+  background: #1b66b2 !important;
+  color: white;
+  margin-left: 20px;
+}
+.bg-vnpt2 {
+  background: green !important;
+  color: white;
+}
+
+.bg-vnptwarning {
+  background-color: orange !important;
+}
+
+.bg-vnpt-light {
+  background-color: rgb(235, 235, 235);
+}
+
+.content {
+  height: calc(100vh - 64px /* Logo */ - 24px /* Welcome text */ - 0.3rem /* Shadow */);
+  overflow-y: auto;
+  overflow-x: hidden;
+  justify-content: center;
+}
+
+.min-height-100 {
+  min-height: 100%;
+}
+
+button i {
+  vertical-align: middle !important;
+}
+
+button span {
+  vertical-align: middle !important;
+}
+
+span i {
+  vertical-align: middle !important;
+}
+
+.a4-size {
+  width: 595px;
+  height: 842px;
+}
+
+.col-week {
+  flex: 0 0 14.2857142857%;
+  max-width: 14.2857142857%;
+}
+
+.bg-success-light {
+  background-color: #c8e6c9;
+}

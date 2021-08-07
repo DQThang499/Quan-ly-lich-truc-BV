@@ -1,0 +1,9 @@
+{
+  "lims": {
+    "error": {
+      "barcodeAlreadyUsed": "Stt đã được cấp",
+      "dateRangeTooLarge": "Từ ngày đến ngày quá lớn. Tối đa 7 ngày",
+      "invalidDateRange": "Khoảng thời gian không hợp lệ"
+    }
+  }
+}

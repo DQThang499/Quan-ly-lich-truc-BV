@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "limsXetNghiem": {
+      "home": {
+        "title": "Xét nghiệm",
+        "createLabel": "Thêm mới một Xét nghiệm",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Xét nghiệm"
+      },
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Xét nghiệm {{ id }}?"
+      },
+      "detail": {
+        "title": "Xét nghiệm"
+      },
+      "maXetNghiem": "Mã Xét nghiệm",
+      "tenXetNghiem": "Tên Xét nghiệm",
+      "dvtt": "Dvtt",
+      "sapxep": "Sắp xếp",
+      "hoatdong": "Hoạt động",
+      "soluong": "Số lượng",
+      "loaiXetNghiem": "Loại Xét nghiệm"
+    }
+  },
+  "limsApp": {
+    "limsXetNghiem": {
+      "created": "Một Xét nghiệm mới được tạo với định danh {{ param }}",
+      "updated": "Một Xét nghiệm cập nhật với định danh {{ param }}",
+      "deleted": "Một Xét nghiệm đã xóa với định danh {{ param }}"
+    }
+  }
+}

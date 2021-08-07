@@ -1,0 +1,31 @@
+{
+  "appgwApp": {
+    "limsLoaiXetNghiem": {
+      "home": {
+        "title": "Loại xét nghiêm",
+        "createLabel": "Thêm mới một Loại xét nghiệm",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Loại xét nghiệm"
+      },
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Loại xét nghiệm {{ id }}?"
+      },
+      "detail": {
+        "title": "Loại xét nghiệm"
+      },
+      "maLoai": "Mã Loại",
+      "dvtt": "DVTT",
+      "tenLoai": "Tên loại",
+      "mota": "Mô tả",
+      "sapxep": "Sắp xếp",
+      "hoatdong": "Hoạt động",
+      "xetNghiem": "Xét nghiệm"
+    }
+  },
+  "limsApp": {
+    "limsLoaiXetNghiem": {
+      "created": "Một Loại xét nghiệm mới được tạo với định danh {{ param }}",
+      "updated": "Một Loại xét nghiệm cập nhật với định danh {{ param }}",
+      "deleted": "Một Loại xét nghiệm đã xóa với định danh {{ param }}"
+    }
+  }
+}

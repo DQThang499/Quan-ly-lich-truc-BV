@@ -1,0 +1,316 @@
+{
+  "global": {
+    "title": "Sổ khám bệnh điện tử ",
+    "browsehappy": "Bạn đang sử dụng một trình duyệt <strong>quá cũ</strong>. Vui lòng <a href=\"http://browsehappy.com/?locale=en\">nâng cấp trình duyệt</a> của bạn để có trải nghiệm tốt nhất.",
+    "menu": {
+      "home": "Trang chủ",
+      "ehr": {
+        "ehr": "Sổ khám bệnh điện tử",
+        "healthcare-process": "Quá trình khám chữa bệnh",
+        "history": "Lịch sử hoạt động",
+        "report": "Báo cáo khám chữa bệnh"
+      },
+      "xetnghiem": {
+        "tiepnhan": "Tiếp nhận",
+        "dscholaymau": "DS chờ lấy mẫu",
+        "dsthuchien": "DS thực hiện",
+        "ketqua": "Kết quả",
+        "ketquamay": "Kết quả máy"
+      },
+      "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
+      "entities": {
+        "main": "Thực thể",
+        "phongBan": "Phòng Ban",
+        "nhanVien": "Nhân Viên",
+        "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
+      },
+      "account": {
+        "main": "Tài khoản",
+        "settings": "Cài đặt",
+        "password": "Mật khẩu",
+        "sessions": "Phiên đăng nhập",
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "register": "Đăng ký"
+      },
+      "admin": {
+        "main": "Quản trị",
+        "gateway": "Điều hướng",
+        "userManagement": "Quản lý tài khoản",
+        "tracker": "Theo dõi người dùng",
+        "metrics": "Số liệu",
+        "health": "Tình trạng",
+        "configuration": "Cấu hình",
+        "logs": "Ghi logs",
+        "audits": "Kiểm duyệt",
+        "apidocs": "API",
+        "database": "Cơ sở dữ liệu",
+        "jhipster-needle-menu-add-admin-element": "JHipster will add additional menu entries here (do not translate!)"
+      },
+      "language": "Ngôn ngữ"
+    },
+    "form": {
+      "username": "Tên tài khoản",
+      "username.placeholder": "Nhập tên tài khoản của bạn",
+      "currentpassword": "Mật khẩu hiện tại",
+      "currentpassword.placeholder": "Nhập mật khẩu hiện tại",
+      "newpassword": "Mật khẩu mới",
+      "newpassword.placeholder": "Nhập mật khẩu mới",
+      "confirmpassword": "Xác nhận mật khẩu mới",
+      "confirmpassword.placeholder": "Nhập lại mật khẩu mới",
+      "email": "Email",
+      "email.placeholder": "Nhập email của bạn"
+    },
+    "messages": {
+      "info": {
+        "authenticated": {
+          "prefix": "Nếu bạn muốn ",
+          "link": "đăng nhập",
+          "suffix": ", bạn có thể thử với tài khoản mặc định:<br/>- Quản trị viên (tài khoản=\"admin\" và mật khẩu=\"admin\") <br/>- Người dùng (tài khoản=\"user\" và mật khẩu=\"user\")."
+        },
+        "register": {
+          "noaccount": "Bạn vẫn chưa có tài khoản?",
+          "link": "Đăng ký tài khoản mới"
+        }
+      },
+      "error": {
+        "dontmatch": "Xác nhận mật khẩu không khớp!"
+      },
+      "validate": {
+        "newpassword": {
+          "required": "Bạn phải nhập mật khẩu.",
+          "minlength": "Mật khẩu phải có ít nhất 4 ký tự.",
+          "maxlength": "Mật khẩu không được vượt quá 50 ký tự.",
+          "strength": "Độ mạnh của mật khẩu:"
+        },
+        "confirmpassword": {
+          "required": "Bạn phải nhập lại mật khẩu để xác nhận.",
+          "minlength": "Mật khẩu phải có ít nhất 4 ký tự.",
+          "maxlength": "Mật khẩu không được vượt quá 50 ký tự."
+        },
+        "email": {
+          "required": "Bạn phải nhập email.",
+          "invalid": "Email bạn nhập không hợp lệ.",
+          "minlength": "Email phải có ít nhất 5 ký tự.",
+          "maxlength": "Email không được vượt quá 50 ký tự."
+        }
+      }
+    },
+    "field": {
+      "id": "ID"
+    },
+    "ribbon": {
+      "dev": "Phát triển"
+    },
+    "layout": {
+      "loading": "Đang tải"
+    },
+    "item-count": "Showing {{first}} - {{second}} of {{total}} items."
+  },
+  "entity": {
+    "action": {
+      "addblob": "Thêm nội dung",
+      "addimage": "Thêm ảnh",
+      "back": "Quay lại",
+      "cancel": "Hủy",
+      "delete": "Xóa",
+      "edit": "Sửa",
+      "open": "Mở",
+      "save": "Lưu",
+      "view": "Xem"
+    },
+    "detail": {
+      "field": "Trường",
+      "value": "Giá trị"
+    },
+    "delete": {
+      "title": "Xác nhận hành động xóa"
+    },
+    "validation": {
+      "required": "Trường này bắt buộc phải nhập.",
+      "minlength": "Trường này phải có ít nhất {{ min }} ký tự.",
+      "maxlength": "Trường này không được vượt quá {{ max }} ký tự.",
+      "min": "Trường này phải lớn hơn {{ min }}.",
+      "max": "Trường này phải nhỏ hơn {{ max }}.",
+      "minbytes": "Dung lượng trường này phải lớn hơn {{ min }} bytes.",
+      "maxbytes": "Dung lượng trường này phải nhỏ hơn {{ max }} bytes.",
+      "pattern": "Trường này phải theo định dạng {{ pattern }}.",
+      "number": "Trường này phải là một số.",
+      "datetimelocal": "Trường này phải là định dạng thời gian."
+    }
+  },
+  "error": {
+    "internalServerError": "Lỗi máy chủ nội bộ",
+    "server.not.reachable": "Không tìm thấy máy chủ",
+    "url.not.found": "Không tìm thấy",
+    "NotNull": "Trường {{ fieldName }} không được để trống!",
+    "Size": "Trường {{ fieldName }} không nằm trong giới hạn tối thiểu/tối đa!",
+    "userexists": "Tên đăng nhập đã được sử dụng!",
+    "emailexists": "Email đã được sử dụng!",
+    "idexists": "Thêm mới {{ entityName }} không được trùng với định danh đã tồn tại",
+    "idnull": "Invalid ID"
+  },
+  "footer": "VNPT IT - Sổ khám bệnh điện tử @ 2018",
+  "ehr": {
+    "list": {
+      "list-wo-items": "Hiện tại bạn chưa có phiên khám nào trong lịch sử khám chữa bệnh phù hợp điều kiện lọc.",
+      "list-wo-items-suggestion": "Xin vui lòng chọn một khoảng thời gian khác.",
+      "page-title": "Lịch sử khám chữa bệnh",
+      "from-date": "Từ ngày",
+      "to-date": "Đến ngày",
+      "table-header-location": "Cơ sở khám chữa bệnh",
+      "table-header-result": "Kết quả chẩn đoán",
+      "table-header-type": "Loại bệnh án",
+      "table-header-in": "Ngày vào viện",
+      "table-header-out": "Ngày ra viện",
+      "table-header-details": "Chi tiết",
+      "table-header-view-more": "Xem chi tiết",
+      "filter-btn": "Lọc kết quả",
+      "hsba-filter-btn": "Lọc theo ngày lưu trữ",
+      "muon-hsba-filter-btn": "Lọc theo ngày tạo phiếu",
+      "phieu-muon-hsba-da-duyet-filter-btn": "Lọc theo ngày duyệt",
+      "loai-kcb-1": "Khám bệnh ngoại trú",
+      "loai-kcb-2": "Bệnh án ngoại trú",
+      "loai-kcb-3": "Bệnh án nội khoa",
+      "tao_phieu_muon_hsba": "Tạo phiếu mượn",
+      "xoa_phieu_muon_dang_cho": "Xóa",
+      "duyet_phieu_muon_dang_cho": "Duyệt",
+      "huy_duyet_phieu_muon_dang_cho": "Hủy duyệt",
+      "xac_nhan_tra_phieu_muon": "Xác nhận trả"
+    },
+    "patient": {
+      "list": {
+        "page-title": "Danh sách Bệnh nhân đã khám chữa bệnh tại đơn vị"
+      }
+    },
+    "muontrahsba": {
+      "list": {
+        "page-title": "Danh sách phiếu mượn HSBA chờ duyệt",
+        "duyet-hsba-page-title": "Danh sách phiếu mượn HSBA đã duyệt",
+        "hsba-da-duoc-duyet-page-title": "Danh sách phiếu mượn HSBA đã duyệt",
+        "tao-phieu-muon-hsba": "Danh sách HSBA có thể mượn"
+      }
+    },
+    "tabs": {
+      "tab-basic-information": "THÔNG TIN CƠ BẢN",
+      "tab-prescription": "ĐƠN THUỐC",
+      "tab-result-clinical": "KẾT QUẢ CẬN LÂM SÀNG",
+      "tab-result-swap": "CHUYỂN KHOA",
+      "tab-result-infusion": "PHIẾU TRUYỀN DỊCH",
+      "tab-result-list": "BẢNG KÊ",
+      "tab-test-medication": "PHIẾU THỬ THUỐC",
+      "tab-treatment-care": "TDT/PCS",
+      "tab-life-function": "PHIẾU CNS"
+    },
+    "tabs-medication": {
+      "tab-prescription-general": "ĐƠN THUỐC TỔNG HỢP",
+      "tab-prescription-health-insurance": "ĐƠN THUỐC BHYT",
+      "tab-medical-supplies": "ĐƠN VẬT TƯ BHYT",
+      "tab-medical-buy-out": "ĐƠN THUỐC ĐÔNG Y",
+      "tab-medical-free": "ĐƠN MIỄN PHÍ",
+      "tab-medical-buy-hospital": "ĐƠN MUA TẠI BV-THU PHÍ"
+    },
+    "tabs-clinical": {
+      "tab-analysis": "XÉT NGHIỆM",
+      "tab-image-analysation": "CHẨN ĐOÁN HÌNH ẢNH",
+      "tab-surgical": "DỊCH VỤ KHÁM",
+      "tab-ultrasonic-imaging-diagnosis": "ẢNH SIÊU ÂM",
+      "tab-x-quang": "ẢNH CHỤP X-QUANG",
+      "tab-endoscopic-imaging-diagnosis": "ẢNH NỘI SOI"
+    },
+    "clinical-detail": {
+      "table-day-assign": "Ngày chỉ định",
+      "table-name-test": "Tên xét nghiệm",
+      "table-name-analysation": "Tên chẩn đoán",
+      "table-name-service": "Tên dịch vụ",
+      "table-header-unit": "Đơn vị",
+      "table-header-amounts": "Số lượng",
+      "table-header-unit-price": "Đơn giá",
+      "table-header-amount": "Thành tiền",
+      "table-header-name-doctor": "Người chỉ định",
+      "table-header-result": "Kết quả",
+      "table-header-to-descride": "Mô tả",
+      "table-header-to-object": "Đối tượng",
+      "table-warning-test": "Bệnh nhân không có chỉ định Xét Nghiệm.",
+      "table-warning-image-analysation": "Bệnh nhân không có chỉ định CĐHA",
+      "table-warning-surgical": "Bệnh nhân không có chỉ định TTPT",
+      "table-ngay-history": "Ngày hoạt động",
+      "table-ttac-history": "Thao tác",
+      "table-ngsudung-history": "Người sử dụng",
+      "table-noidung-history": "Nội dung sử dụng"
+    },
+    "table-medical": {
+      "table-wo-warning": "Thông báo",
+      "table-wo-iteams": "Đơn này, bệnh nhân chưa được kê thuốc, vật tư y tế!",
+      "table-header-name": "Tên thương mại",
+      "table-header-original-name": "Tên gốc, hoạt chất",
+      "table-header-unit": "Đơn vị",
+      "table-header-use": "Cách dùng",
+      "table-header-day": "Ngày",
+      "table-header-amounts": "Số lượng",
+      "table-header-dosage": "Liều dùng"
+    }
+  },
+  "human": {
+    "sex": {
+      "male": "Nam",
+      "female": "Nữ",
+      "sex": "Giới tính"
+    },
+    "dob": "Ngày sinh",
+    "fullname": "Họ tên",
+    "addr": "Địa chỉ",
+    "adm_info": "Thông tin hành chính",
+    "coverage": "Thẻ BHYT",
+    "agemonth": "Tuổi/Tháng",
+    "dvtt": "DVTT",
+    "phongkham": "Phòng Khám",
+    "phone": "Số điện thoại"
+  },
+  "assurance": {
+    "adm_ass": "Thông tin bảo hiểm",
+    "card_numb": "Thẻ BHYT",
+    "from_date": "Ngày bắt đầu",
+    "to_date": "Ngày hết hạn",
+    "reg_location": "Nơi đăng ký KCB ban đầu",
+    "discount_percentage": "Tỷ lệ miễn giảm",
+    "object": "Đối tượng"
+  },
+  "bmi_conclusion": {
+    "lack_of_heavy_weight": "Thiếu cân rất nặng",
+    "lack_of_weight": "Thiếu cân nặng",
+    "underweight": "Thiếu cân",
+    "normal": "Bình thường",
+    "pre_obesity": "Tiền béo phì",
+    "obesity_degree_i": "Béo phì độ I",
+    "obesity_degree_ii": "Béo phì độ II",
+    "obesity_iii": "Béo phì độ III"
+  },
+  "examination": {
+    "info": "Thông tin khám bệnh",
+    "date": "Ngày khám",
+    "room": "Phòng khám",
+    "diagnose_of_doctor": "Chẩn đoán của bác sĩ",
+    "results_of_birth_measurement": "Kết quả đo sinh hiệu",
+    "weight": "Cân nặng",
+    "BMI": "BMI",
+    "identify_as": "KQ nhận định",
+    "blood_pressure": "Huyết áp",
+    "body_temperature": "Nhiệt độ",
+    "pulse": "Mạch",
+    "breathing": "Nhịp thở",
+    "creatinin": "Creatinin",
+    "clearance": "Độ thanh thải",
+    "time_per_minute": "lần/phút",
+    "diagnose_detail": "Chi tiết chẩn đoán",
+    "clinical_symptoms": "Triệu chứng lâm sàng",
+    "diagnose": "Chẩn đoán",
+    "secondary_disease": "Bệnh phụ",
+    "diagnosis_of_traditional_medicine": "Chẩn đoán YHCT",
+    "diagnosis_causes": "CĐ nguyên nhân",
+    "doctor": "Bác sĩ điều trị"
+  },
+  "number": {
+    "na": "Chưa có số liệu"
+  }
+}
